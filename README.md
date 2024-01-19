@@ -1,16 +1,16 @@
 # Welcome! to my profile
 My name is **Thiago Vieira**
-<br>
+
 I'm studying ADS (Systems Analysis and Development, in English), at São Paulo Tech School college.
-<br>
+
 Due to my curiosity, I discovered the area of programming and became very interested in it. Since then, I have been studying in order to improve my skills and increase my opportunities in the market.
-<br>
+
 ![Thiago Vieira's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagovieiras&show_icons=true&theme=synthwave)
 
 ## Contact:
 <div style="display: inline_block"><br>
   <img aling="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  <img aling="center" alt="Gmail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img aling="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </div>
 
 ## Technologies I use:
