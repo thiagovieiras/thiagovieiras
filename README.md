@@ -7,7 +7,7 @@ Due to my curiosity, I discovered the area of programming and became very intere
 
 ![Thiago Vieira's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagovieiras&show_icons=true&theme=synthwave)
 
-## Contact:
+## Contacts:
 <div style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/thiago-vieira-823a372a5/">
     <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
