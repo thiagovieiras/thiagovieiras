@@ -5,6 +5,7 @@ I'm studying ADS (Systems Analysis and Development, in English), at São Paulo T
 
 Due to my curiosity, I discovered the area of programming and became very interested in it. Since then, I have been studying in order to improve my skills and increase my opportunities in the market.
 
+
 ![Thiago Vieira's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagovieiras&show_icons=true&theme=synthwave)
 
 ## Contacts:
