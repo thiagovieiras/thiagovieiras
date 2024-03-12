@@ -17,7 +17,7 @@ Due to my curiosity, I discovered the area of programming and became very intere
   </a>
 </div>
 
-## - Applications $ datas:
+## - Applications & datas:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
